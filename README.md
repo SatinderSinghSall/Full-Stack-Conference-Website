@@ -1,5 +1,7 @@
 # Full-Stack Conference Website
 
+## For REVA University, Bengaluru
+
 🔗 **Developer Portfolio:**  
 👉 https://satinder-portfolio.vercel.app
 
@@ -288,6 +290,12 @@ Full-Stack Developer / Engineer
 👉 https://satinder-portfolio.vercel.app
 
 ---
+
+## 🙌 Acknowledgements
+
+- **Prof. Sneha N** — Visionary behind Conference Website and CSAConnect Website
+- **REVA University - School of CSA**
+- All students, faculty, and contributors who make this platform possible 🚀
 
 ## 📄 License
 
