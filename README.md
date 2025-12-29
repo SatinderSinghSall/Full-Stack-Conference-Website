@@ -31,8 +31,6 @@ The platform supports participant registration, admin authentication, email noti
 
 ## 📁 Project Structure
 
-```
-
 Full-Stack Conference Website
 
 # File Tree: Full-Stack Conference Website
@@ -42,7 +40,6 @@ Full-Stack Conference Website
 
 ```
 
-```
 ├── 📁 backend
 │ ├── 📁 config
 │ │ └── 📄 nodemailerConfig.js
